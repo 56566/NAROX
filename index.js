@@ -141,4 +141,4 @@ let xpAdd = Math.floor(Math.random() * 15) + 9;
 }
 });
 
-bot.login(botconfig.token);
+bot.login(botconfig.(NTY5MTIzMTgxMzkwOTg3Mjc1.XLsHOw.IMvNJAE83sCNt1fAvkonFV3V8OE);
